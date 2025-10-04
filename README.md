@@ -24,9 +24,9 @@ These habitats must support:
 
 
 
-- <a href="./files/HACKATHON TEMPLATE.pptx" download>📥 Download PDF</a>
+- <a href="hackathon./Readme.md/HACKATHON TEMPLATE.pptx" download>📥 Download PDF</a>
 <br>
-<a href="./files/HACKATHON TEMPLATE.pptxf" target="_blank">🔍 Open PDF in New Tab</a>
+<a href="hackathon./Readme.md/HACKATHON TEMPLATE.pptx" target="_blank">🔍 Open PDF in New Tab</a>
 
 
 This challenge merges **engineering, design, and human-centered thinking** to make life in space possible and practical.
