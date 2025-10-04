@@ -20,7 +20,14 @@ Our goal is to create a **visual layout tool** that helps users:
 These habitats must support:
 - Life support, waste management, and thermal control  
 - Power, communication systems, and environmental safety  
-- Sleeping quarters, exercise zones, food areas, and medical facilities  
+- Sleeping quarters, exercise zones, food areas, and medical facilities
+
+
+
+- <a href="./files/space-habitat-design.pdf" download>📥 Download PDF</a>
+<br>
+<a href="./files/space-habitat-design.pdf" target="_blank">🔍 Open PDF in New Tab</a>
+
 
 This challenge merges **engineering, design, and human-centered thinking** to make life in space possible and practical.
 
